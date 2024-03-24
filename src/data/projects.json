@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to shorten long url and also provide a Qrcode for the user.",
+    "skills": ["React", "Typescript", "Css"],
+    "demo": "https://scissorsurl.netlify.app/",
+    "source": "https://github.com/Rhe-obot/Scissor-App"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is an E-commerce project for user to buy tech gadget and add to cart.",
+    "skills": ["React", "css", "Javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Rhe-obot/E-commerce-Platform"
+  }
+]
