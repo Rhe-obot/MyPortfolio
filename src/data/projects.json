@@ -14,11 +14,5 @@
     "skills": ["Html", "css", "Javascript"],
     "demo": "https://tomidigital.netlify.app/",
     "source": "https://github.com/Rhe-obot/E-commerce-Platform"
-  },
-  {
-    "title": "Other Project",
-    "imageSrc": "projects/project.png",
-    "description": "Check the link below for my other projects.",
-    "source": "https://app.netlify.com/teams/rhe-obot/sites"
   }
 ]

@@ -9,9 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Rheoboth</h1>
         <p className={styles.description}>
-          I'm a Frontend developer  with no experience.
+          I'm a Frontend developer  with little experience in the tech world.
             Practicing to get better and  create  responsive website, improve my frontend skills and
-             make the World a better place with my skills. God Bless .
+             make the World a better place with my skills. God Bless. Looking for jobs to gain Experience
+             and improve my skills.      
               
         </p>
         <a href="mailto:tominiyirheobot@gmail.com" className={styles.contactBtn}>

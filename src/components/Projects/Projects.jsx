@@ -14,6 +14,11 @@ export const Projects = () => {
           return <ProjectCard key={id} project={project} />;
         })}
       </div>
+      <p>
+      <a href="https://app.netlify.com/teams/rhe-obot/sites" className={styles.others}>
+      Check for my other projects here.
+      </a>
+      </p>
     </section>
   );
 };
