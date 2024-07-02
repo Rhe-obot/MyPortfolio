@@ -11,8 +11,14 @@
     "title": "Project B",
     "imageSrc": "projects/project.png",
     "description": "This is an E-commerce project for user to buy tech gadget and add to cart.",
-    "skills": ["React", "css", "Javascript"],
-    "demo": "https://www.example.com",
+    "skills": ["Html", "css", "Javascript"],
+    "demo": "https://tomidigital.netlify.app/",
     "source": "https://github.com/Rhe-obot/E-commerce-Platform"
+  },
+  {
+    "title": "Other Project",
+    "imageSrc": "projects/project.png",
+    "description": "Check the demo for my toher projects here",
+    "source": "https://app.netlify.com/teams/rhe-obot/sites"
   }
 ]
